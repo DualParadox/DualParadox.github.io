@@ -1,1 +1,3 @@
-# DualParadox.github.io
+# DualParadox
+
+My website!
